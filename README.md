@@ -1,1 +1,2 @@
 # Linear-Exponential-or-Parabolic
+This program identifies whether a list of values follows a linear, parabolic, or exponential pattern. Users enter the length and values of the list, which the program then analyzes. It calculates the first differences (for linear), second differences (for parabolic), and ratios (for exponential patterns). If any of these are consistent, the program indicates the function type; otherwise, it reports that no known pattern was found.
