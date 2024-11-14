@@ -1,0 +1,1 @@
+# Linear-Exponential-or-Parabolic
